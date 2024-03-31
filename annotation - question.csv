@@ -1,0 +1,136 @@
+video url,,,title,,id,Questions,,,,,Answers,Start ,End ,Categories
+https://www.youtube.com/watch?v=aPfkYu_qiF4,,,Deep Learning - Course Introduction,,aPfkYu_qiF4,What is meaning of the deep learning and also signify the importance of deep learning? ,,,,,"it has finds applications in a wide range of area such as speech, computer vision, natural language processing and companies like Google, Facebook etc., use deep learning as the underlying solution.",0:24,0:44,TEX
+,,,,,,What is network used in outine to describe the basics of deep learning?,,,,,"multilayered network of neurons, or multilayered perceptron",0:57,1:03,TEX
+,,,,,,Which algorithm the lecturer uses to traing these networks? ,,,,,Backpropogation that uses gradient descent,1:08,1:12,TEX
+,,,,,,What are the several applications of the feed forward networks?,,,,,AutoEncoders and word2vec,1:14,1:19,TEX
+,,,,,,Which data types recurrent neural network mostly worked on?,,,,,Sequential Data,1:38,1:51,TEX
+,,,,,,What are some application of the rnn? ,,,,,Sequence Prediction,2:01,2:07,TEX
+,,,,,,Which algorithms are used to train RNN?,,,,,Backpropogation through time,2:13,2:20,TEX
+,,,,,,Why do we introduce the concept of the LSTMs and GRU?,,,,,To overcome the challenges of rnn,2:29,2:38,TEX
+,,,,,,Which neural network is used in vision domain?,,,,,CNN,2:38,2:45,TEX
+,,,,,,What are some applications of CNN?,,,,,"Classification,segmentation",2:51,2:55,TEX
+,,,,,,What type of data encoder and decoder accepts to do task?,,,,,image or speech or text.,3:32,3:38,TEX
+,,,,,,Why do we use attention networks?,,,,,find important words in input,5:09,5:14,TEX
+,,,,,,which models use neural networks for probability distributions?,,,,,deep generative models,5:39,5:46,TEX
+,,,,,,what is the summary of this video?,,,,,"feed forward NN, RNN, CNN, Encoder-Decoder with attention",6:12,6:22,TEX
+,,,,,,,,,,,,,,
+https://www.youtube.com/watch?v=4TC5s_xNKSs,,,Deep Learning(CS7015): Lec 1.1 Biological Neuron,,4TC5s_xNKSs,Who and when proposed that the nervous system is a single continious network?,,,,,"Joseph von Gerlach, 1871 -1873",1:30,1:40,LOC
+,,,,,,"A/q to Joseph, which cell is sitting in our nervous system?",,,,,gigantic,1:44,1:47,TEX
+,,,,,,what is theory he proposed related to single continious network?,,,,,Reticular Theory,1:51,1:54,TEX
+,,,,,,Which technique do the Camillo uses to be a proponet of the reticular theory?,,,,,Staining Technique,2:10,2:16,V/T
+,,,,,,Who opposed that the nervous system is a single continious network?,,,,,Santiago,2:37,2:50,VLI
+,,,,,,Who coined the name neuron and when?,,,,,"Hein-rich, 1891",3:40,3:50,V/K
+,,,,,,Who get the jointly noble prizes based on the research on the neurons?,,,,,Golgi and Cajal,4:27,4:47,LOC
+,,,,,,When it is confirmed that the nerve cells are the individual cells interconnected through synapses?,,,,,"1950s, electron microscopy",4:59,5:08,LOC
+,,,,,,Why do the acknowledgment are given by the authors before start the lecture?,,,,,dates as back as 1871,1:00,1:08,VLI
+,,,,,,What does the camillo discovered at first?,,,,,a chemical reaction that would allow you to examine the neurons or the nervous tissue right,2:04,2:10,V/T
+,,,,,,Which technique Santiago used?,,,,,Golgi's Technique,2:38,2:42,V/T
+,,,,,,Is the neutron doctrine consolidated by the hein rich?,,,,,Yes,3:37,3:41,VLI
+,,,,,,for which domain the noble prize is awarded?,,,,,Physiology or Medicine,4:32,4:40,V/K
+,,,,,,how is the nerve cells look like after examining throught the electron microscopy,,,,,Unambigiously neuron doctrine,5:18,5:30,V/K
+,,,,,,can we relate the working of brain with the neural network?,,,,,yes,6:13,6:18,TEX
+,,,,,,,,,,,,,,
+https://www.youtube.com/watch?v=WpR8eOLUo9Q,,,Deep Learning(CS7015): Lec 1.2 From Spring to Winter of AI,,WpR8eOLUo9Q,Who purposed a highly simplified models of the neuron?,,,,,McCulloch and Pitts,0:43,0:48,V/T
+,,,,,,What are example of some inputs can be given to demonstrate the working of brain? ,,,,,"So now, suppose you want to decide whether you want to go out for a movie or not.
+So, you would probably think about, do you really have any exams coming up that could
+be our factor X1.
+You could think about is a weather good to go out is it raining would it be difficult
+to go out at this point.",1:00,1:15,TEX
+,,,,,,"which structure may eventually be able to learn, make decisions, and translate languages.",,,,,perceptron,2:37,2:42,V/T
+,,,,,,"So, learn and make decisions make sense, but why translate languages in perceptron structures?",,,,,"There was lot of research and translation was actually fuelled by the world war and evens that happened after that where, these countries which were at loggerheads with each other.They wanted to understand what the other country is doing? But they did not speak each other's language. That is why, there was a lot of interest from espionage point of view or from spying and so on to be able to translate languages.",3:03,3:20,VLI
+,,,,,,why AI will not take our jobs?,,,,,this is not something new we have been talking about the promise of AI as far back.,4:25,4:32,VLI
+,,,,,,Why AI to be much more successful than it was earlier?,,,,,"we have much better compute power now, we have lots of data now and all thanks to the internet, and other things that you can actually crawl tons and tons of data and then try to learn something from a data",4:51,5:03,VLI
+,,,,,,what is deep learning about?,,,,,"It is about a large number of artificial neurons connected to each other in layers and functioning
+towards achieving certain goal right.",5:46,5:54,V/T
+,,,,,,When will the deep learning come into the picture?,,,,,in last 8 to 10 years,6:05,6:07,TEX
+,,,,,,Who is founded to be the father of modern deep learning?,,,,,Ivakhnenko,5:25,6:24,V/K
+,,,,,,Which models comes after the perceptron?,,,,,Multilayer Perceptrons,5:25,6:24,V/K
+,,,,,,Who first talk about the limitation of Perceptron?,,,,,"Minsky and
+Papert",6:45,6:51,V/T
+,,,,,,When will the first limitation come out by Minsky and Papert?,,,,,1969,6:45,6:51,V/T
+,,,,,,What are some limitations that both authors introduce?,,,,,but even a simple function like XOR or is something which a Perceptron cannot be used to model.,7:17,7:21,TEX
+,,,,,,How many types of AI does exist?,,,,,two,7:44,7:48,TEX
+,,,,,,What are the types of the AI?,,,,,Symbolic and connectionist AI,7:44,7:48,TEX
+,,,,,,What do you mean by backpropogation?,,,,,algorithm to train neural network,8:46,8:51,V/T
+,,,,,,Who fist use the backpropogation and when?,,,,,werbos and 1982,8:35,9:55,LOC
+,,,,,,Who introduced the gradient descent and when?,,,,,Cauchy and 1847,10:00,10:06,LOC
+,,,,,,Why cauche discovered the gradient descent?,,,,,for need to compute the orbit of heavinly bodies,10:00,10:08,LOC
+,,,,,,What do you mean by Universal Approximation Theorem?,,,,,have a deep neural network you could basically model all types of functions continuous functions to any desired precision.,11:15,11:22,V/T
+,,,,,,Which publishing agency had called the perceptron as the embryo of an electronic paper?,,,,,New York Times,3:37,3:45,V/K
+,,,,,,,,,,,,,,
+https://youtube.com/watch?v=DpK_i6iA0i0,,,Deep Learning(CS7015): Lec 1.3 The Deep Revival,,DpK_i6iA0i0,What do you mean by the unsupervised Pre-Training?,,,,,effective way of initializing the weights that allows deep autoencoder networks to learn a low dimensional representation of data.,0:14,1:08,V/T
+,,,,,,Who described the unsupervised Pre-Training?,,,,,Hinton and Salakhutdinov.,0:14,1:08,V/T
+,,,,,,When the unsupervised Pre-Training come into the picture?,,,,,1991-93,1:08,1:40,V/T
+,,,,,,What is the main objective of the unsupervised pre-training?,,,,,to train a very deep learner.,1:08,1:40,V/T
+,,,,,,What are the further investigations into the effectiveness of unsupervised pre-training?,,,,,"how do you initialise the network better, what is the better optimization algorithm to use, what is the better regularization algorithm to use ",2:06,2:13,V/T
+,,,,,,What is the series of successes the people see after working with deep learning for applications?,,,,,"like practical recoginition of the handwriting MNIST, speech recoginition and pattern visual recoginition.",3:00,7:25,LOC
+,,,,,,Who performerd the international arabic hand recoginition?,,,,,Graves,2:58,3:22,V/T
+,,,,,,Who first proposed the first success in the speech recoginition?,,,,,Dahl,3:25,3:45,V/T
+,,,,,,When the first time of the gpu come into the picture?,,,,,2010,3:45,4:35,TEX
+,,,,,,How much error rate is achieved in the IJCNN Traffic sign recoginition competition and by whom?,,,,,0.56% and Ciresan,4:48,4:53,V/K
+,,,,,,What was the imagenet competition?,,,,,this competition was basically about classifying a given image into one of thousand classes.,5:15,5:21,V/T
+,,,,,,Which network uses 8 layers and found 16.0% error in imagenet competition?,,,,,AlexNET,5:45,5:51,V/T
+,,,,,,Alexnet is good performer among all the models in imagenet challenges. ,,,,,contradiction,5:45,5:51,VLI
+,,,,,,Which models work better than the alexnet?,,,,,"ZFnet,VGGnet,GoogLenet, MS Resnet",4:53,6:37,LOC
+,,,,,,How many layers are there in resnet?,,,,,152,6:10,6:19,LOC
+,,,,,,When are the further investigations into the effectiveness of unsupervised pre-training?,,,,,2007-2009,2:06,2:13,V/K
+,,,,,,How was the performance of AlexNet?,,,,,able to actually outperform all the other systems by a margin of 67 percent,5:37,5:44,TEX
+,,,,,,The popularity of the deep learning techniques are also increased by the imagenet challenges.,,,,,entailment,6:55,7:01,VLI
+,,,,,,which field using deep neural networks there were a lot of success?,,,,,"Translation system, speed systems, image classification, object detection",7:09,7:19,TEX
+,,,,,,Convolutional neural networks are the type of neural networks mostly driven for imagenet.,,,,,entailment,7:19,7:27,VLI
+,,,,,,How much error rate is achieved by GoogleNet in imagenet competition?,,,,,6.70%,6:05,6:10,V/K
+,,,,,,,,,,,,,,
+https://youtube.com/watch?v=6USgwLa-7ks,,,Deep Learning(CS7015): Lec 1.4 From Cats to Convolutional Neural Networks,,6USgwLa-7ks,When do the hubel and wiesel used to do experiments ?,,,,,1959,0:22,0:28,V/T
+,,,,,,What do the hubel and wiesel observe?,,,,,"different neurons in brain fire to only different types of stimuli, it is not that all neurons in brain always fire to any kind of visual stimuli that you give to them right.",1:07,1:15,V/T
+,,,,,,Which experiment shows that each neuron has a fixed receptive field?,,,,,hubel and wiesel experiment,0:21,1:15,V/K
+,,,,,,When do the neocognitron come into the picture of area of computer vision?,,,,,1980,1:20,1:26,V/T
+,,,,,,why do mostly the Neocognitron used for?,,,,,handwritten digit recognition and pattern recognition,1:21,1:35,V/K
+,,,,,,Who proposed the Convolutional neural network?,,,,,Yan Li Kun,1:42,1:45,TEX
+,,,,,,Why convolutional neural network first mostly used for?,,,,,for context of postal delivery,1:50,1:55,TEX
+,,,,,,When the CNN come into picture?,,,,,1989,2:12,2:17,V/T
+,,,,,,Who introduced the MNIST dataset?,,,,,Lenet-5,2:20,2:37,V/K
+,,,,,,When the MNIST dataset introduced?,,,,,1998,2:39,2:47,V/T
+,,,,,,What can be concluded in this video as summary?,,,,,"an algorithm which was inspired by an experiment on cats is,
+today used to detect cats in videos of course",2:49,2:56,V/T
+,,,,,,,,,,,,,,
+https://youtube.com/watch?v=0DKOUFrP7xI,,,"Deep Learning(CS7015): Lec 1.5 Faster, higher, stronger",,0DKOUFrP7xI,How can you describe the background of better optimization technique?,,,,,"So now, so this is what the progression was right that, in 2006 people started or the study by Hinton and others led to the survival, and then people started realizing the deep neural networks and actually we use for lot of practical applications and actually beat a lot of existing systems.",0:13,0:31,TEX
+,,,,,,Why are some of the research done in from 2010 to 2016 era?,,,,,"to find better optimization algorithms which could lead to better convergence, better accuracies.",0:48,0:54,TEX
+,,,,,,What are the some topic that the authors covered in our syllabus?,,,,,"ImageNet challenge, Alex Net, ZF Net, Google
+Net",1:04,1:11,TEX
+,,,,,,Which gradient descent are listed on the slide?,,,,,Nesterov gradient descent,1:12,1:18,TEX
+,,,,,,What are some of the optimization technique that is used to describe modern deep learning methods?,,,,,"RMS prop, Adam Eve",1:42,1:48,TEX
+,,,,,,What are some of the relurization techniques authors used to describe the modern deep learning?,,,,,Batch normalization or Xavier initialization,2:00,2:03,TEX
+,,,,,,Why do we use modern optimization and relurization techniques to implement the modern deep learning techniques?,,,,,to making neural networks perform even better faster and even reach better solutions or better accuracies,2:03,2:13,TEX
+,,,,,,,,,,,,,,
+https://www.youtube.com/watch?v=H_ptjlq8pH0,,,Deep Learning(CS7015): Lec 1.6 The Curious Case of Sequences,,H_ptjlq8pH0,What do you mean by sequences?,,,,,Sequences are everywhere when you are dealing with data.,0:26,0:29,V/K
+,,,,,,What are some examples of the sequnce based data?,,,,,"the stock market trends or any other kind of a series, time series, then you have speech which is again a series of phonemes or you
+have music.",0:29,0:43,TEX
+,,,,,,Each units in the sequence interacts with other units.,,,,,entailment,1:12,1:16,VLI
+,,,,,,Why do the nlp required sequnce data?,,,,,"for natural language processing because in natural language processing, you deal with sequence of words or all your texts or sentences or documents or all sequences of words, right. So, that is very important and the same in the case of speech also.",1:22,1:36,TEX
+,,,,,,What do you mean by recurrence neural network?,,,,,"So, a recurrent neural network is something which allows you to capture the interactions between the elements of your sequence.",1:52,1:59,TEX
+,,,,,,What do you mean by jordan network?,,,,,The output state of each time step is fed to next time step thereby allowing interactions between time steps in the sequence.,1:48,2:20,V/K
+,,,,,,When do the jordan come into the picture?,,,,,1986,2:15,2:21,V/K
+,,,,,,What is the elman network?,,,,,The hidden state of each time step is fed to the next time step thereby allowing interactions between time steps in the sequence.,2:33,3:03,V/K
+,,,,,,when did the elman network come into the picture?,,,,,1990,2:21,2:24,V/T
+,,,,,,What are some drawbacks of the recurrent neural network?,,,,,Exploding and vanishing Gradient Problem,3:16,3:19,V/T
+,,,,,,How we overcome the problem of the recurrent neural networks?,,,,,With the help of LSTM,3:34,3:41,V/T
+,,,,,,when the LSTM's are discovered?,,,,,1997,4:12,4:17,V/T
+,,,,,,What are the another variants of LSTM?,,,,,GRU,3:50,3:57,LOC
+,,,,,,Why it is not easy to use LSTM?,,,,,because of these parallel progresses which I mentioned in terms of optimization and regularization and so on.,4:20,4:29,TEX
+,,,,,,LSTM can solved the long complex tasks that could never be solved before,,,,,entailment,3:34,4:29,VLI
+,,,,,,What do you mean by sequence to sequence learning?,,,,,"People are now able to use RNNs LSTMs for large scale sequence to sequence problems and in particular a very important discovery at this time are very important model which was proposed at this time which is Attention Mechanism which is used in a lot of deep neural networks nowadays which enabled to deal with a lot of sequence prediction problems. For example, translation where you have given one sequence in one language and you want to generate the equivalent sequence in another language. So, this is known as a sequence to sequence translation problem.",4:29,5:03,LOC
+,,,,,,When do the sequence of sequence learning come into the picture?,,,,,2014,4:42,5:03,LOC
+,,,,,,When do the attention mechanism come into picture?,,,,,1991,5:33,5:49,LOC
+,,,,,,What is the work of an attention mechanism?,,,,,"if you have a large sequence and if you want to do something with this sequence, what are the important entities of this sequence or elements of this sequence that you need to focus on, right.",5:52,6:00,TEX
+,,,,,,Schmidhuber and huber propoosed rnn that uses the unsupervised learning to where to look.,,,,,contradiction,5:40,5:49,VLI
+,,,,,,,,,,,,,,
+https://www.youtube.com/watch?v=_z27qjHjqiM,,,Deep Learning(CS7015): Lec 1.7 Beating humans at their own games (literally),,_z27qjHjqiM,When do the atari games come into picture?,,,,,2015,0:26,0:41,LOC
+,,,,,,How do the atari games use for deep learning?,,,,,"you could train a deep neural network to play Atari games and do much better than what humans do, right?",0:31,0:41,TEX
+,,,,,,Which type of learning do the atari games uses?,,,,,Deep Reinforcement Learning,0:25,0:45,V/K
+,,,,,,What is a Go?,,,,,More complex tournament than chess because of the number of moves,0:48,1:06,V/K
+,,,,,,What is the condition of the game Go?,,,,,No brute force backtracking unlike previous chess agents,0:48,1:06,V/K
+,,,,,,What is the role of alphago in the game Go?,,,,,AlphaGO which is deep reinforcement learning based agent was actually able to beat the reigning champion,0:52,1:02,V/T
+,,,,,,What is deepstack?,,,,,a deep reinforcement learning based agent which is able to beat 11 professional poker players at this game.,1:08,1:17,V/T
+,,,,,,Which games uses the deepstack agent?,,,,,Poker,1:05,1:09,TEX
+,,,,,,What is the defense of the ancients?,,,,,"widely popular game with complex stratgies, large visual spaces.",1:19,1:25,V/T
+,,,,,,When do the poker comes into picture?,,,,,2016,,,
