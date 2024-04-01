@@ -79,7 +79,7 @@ def main():
             answer = search_answers(df_videos, video_link, question)
             # Display the answer if available
             if answer is not None:
-                st.write("Answer:")
+                # st.write("Answer:")
                 if answer['Answers'] is not None:
                     st.write(f"Answer: {answer['Answers']}")
                 else:
